@@ -49,6 +49,18 @@ It runs one DMAIC cycle per waste it finds:
 - [docs/PRD.md](docs/PRD.md): product requirements (problem, users, user stories, functional requirements, metrics, business model)
 - [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md): system architecture (layers, data flow, services, data model, API, Gemini design, security)
 
+## Current repo contents
+
+```
+Project-Nirvana/
+├── README.md
+└── docs/
+    ├── PRD.md            product requirements
+    └── ARCHITECTURE.md   system architecture
+```
+
+There is no runnable code yet, so there is nothing to install or run. Setup instructions will be added with the first build.
+
 ## Planned repo layout
 
 ```
@@ -75,3 +87,7 @@ Pre-build. MVP target: one full DMAIC loop on public data for the buildathon (No
 | Anshuman Tewary | Founder · Product & Lean Six Sigma | Vision, waste-pattern library, DMAIC method, business model, pitch |
 | Pinak Kundu | Co-founder · Engineering & AI *(proposed)* | Data pipeline, analysis engine, calculator, Gemini, deployment |
 | Navjot Singh | Co-founder · GTM & Operations *(proposed)* | Customer discovery, pilot partner, pricing, demo data |
+
+---
+
+Anshuman Tewary · [GitHub](https://github.com/anshumantewary-pm) · [LinkedIn](https://www.linkedin.com/in/tewary-anshuman/)
